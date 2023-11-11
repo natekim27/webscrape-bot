@@ -17,10 +17,10 @@ Please provide information on the author and any main points of contact. (Name, 
 Please provide a link to the project page if applicable.
 
 ## Project area (Checkboxes)
-Please check off which area(s) of research the project applies to.
+Please insert an 'x' in the area(s) of research the project applies to.
 
 ### Computing
-- [] Artificial Intelligence
+- [ ] Artificial Intelligence
 - [ ] High-Performance Computing 
 - [ ] Computer Science
 - [ ] Databases
@@ -31,7 +31,7 @@ Please check off which area(s) of research the project applies to.
 - [ ] Music
 
 ### Engineering
-- [ ] Biomedical Engineering
+- [x ] Biomedical Engineering
 - [ ] Aerospace Engineering
 - [ ] Chemical and Biomolecular Engineering
 
@@ -51,7 +51,7 @@ Please check off which area(s) of research the project applies to.
 - [ ] Research & Thought Leadership
 
 ## License used
-Please check off which license(s) the project possesses.
+Please insert an 'x' in the boxes that the project possesses a license for.
 
 - [ ] GNU General Public License (GPL)
 - [ ] Apache License 2.0
