@@ -31,7 +31,7 @@ Please insert an 'x' in the area(s) of research the project applies to.
 - [ ] Music
 
 ### Engineering
-- [x ] Biomedical Engineering
+- [x] Biomedical Engineering
 - [ ] Aerospace Engineering
 - [ ] Chemical and Biomolecular Engineering
 
