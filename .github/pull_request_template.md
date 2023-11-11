@@ -16,7 +16,7 @@ Please provide information on the author and any main points of contact. (Name, 
 ## Project URL
 Please provide a link to the project page if applicable.
 
-## Project area (Checkboxes)
+## Project area
 Please change '[ ]' to '[x]' in the area(s) of research the project applies to.
 
 ### Computing
@@ -51,7 +51,7 @@ Please change '[ ]' to '[x]' in the area(s) of research the project applies to.
 - [ ] Research & Thought Leadership
 
 ## License used
-Please insert an 'x' in the boxes that the project possesses a license for.
+Please change '[ ]' to '[x]' for the license(s) that the project possesses.
 
 - [ ] GNU General Public License (GPL)
 - [ ] Apache License 2.0
