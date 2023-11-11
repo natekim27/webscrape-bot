@@ -102,7 +102,7 @@ def checkout():
     
 
 if __name__ == "__main__":
-    print("This template is so W")
+    print("upating rpr")
     
     item_id = find_item(ProductDetails.KEYWORDS)
     color_id = get_color(item_id, ProductDetails.COLOR, ProductDetails.SIZE)
