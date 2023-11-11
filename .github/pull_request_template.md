@@ -2,7 +2,7 @@
 Before submitting, please enter some information on the project below:
 
 # Note
-If adding updates 
+If adding updates to a project, only enter any information related to the update. In addition please list any notes of interest below that may not apply to any of the sections.
 
 ## Project Name
 Please enter the name of the project.
@@ -18,9 +18,37 @@ Please provide a link to the project page if applicable.
 
 ## Project area (Checkboxes)
 Please check off which area(s) of research the project applies to.
-| Computing | Design | Engineering | Sciences | Liberal Arts | Business |
-| -------- | -------- | -------- | -------- | -------- | -------- | 
-| <ul><li>[ ] Artificial Intelligence</li><li>[ ] High-performance Computing</li><li>[ ] Databases</li></ul> | <ul><li>[ ] Architecture</li><li>[ ] Building Construction</li><li>[ ] City and Regional Planning</li></ul> | <ul><li>[ ] Biomedical Engineering</li><li>[ ] Aerospace Engineering</li><li>[ ] Chemical and Biomolecular Engineering</li></ul> | <ul><li>[ ] Biological Science</li><li>[ ] Chemistry & Biochemistry</li><li>[ ] Mathematics</li></ul> | <ul><li>[ ] International Affairs</li><li>[ ] Economics</li><li>[ ] Literature, Media, & Communications</li></ul> | <ul><li>[ ] Financial Analysis</li><li>[ ] Projects and Research</li><li>[ ] Research & Thought Leadership</li></ul> |
+
+### Computing
+- [ ] Artificial Intelligence
+- [ ] High-Performance Computing 
+- [ ] Computer Science
+- [ ] Databases
+
+### Design
+- [ ] Architecture
+- [ ] City and Regional Planning
+- [ ] Music
+
+### Engineering
+- [ ] Biomedical Engineering
+- [ ] Aerospace Engineering
+- [ ] Chemical and Biomolecular Engineering
+
+### Sciences
+- [ ] Biosciences
+- [ ] Mathematics
+- [ ] Physics
+- [ ] Psychology
+
+### Liberal Arts
+- [ ] Economics
+- [ ] Literature, Media, & Communications
+
+### Business
+- [ ] Financial Analysis
+- [ ] Projects and Research
+- [ ] Research & Thought Leadership
 
 ## License used
 Please check off which license(s) the project possesses.
