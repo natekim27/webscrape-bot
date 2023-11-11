@@ -20,7 +20,7 @@ Please provide a link to the project page if applicable.
 Please check off which area(s) of research the project applies to.
 
 ### Computing
-- [ ] Artificial Intelligence
+- [] Artificial Intelligence
 - [ ] High-Performance Computing 
 - [ ] Computer Science
 - [ ] Databases
