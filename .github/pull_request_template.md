@@ -1,7 +1,7 @@
-## Thank you for your contribution to the Open Source Programming Office!
+# Thank you for your contribution to the Open Source Programming Office!
 Before submitting, please enter some information on the project below:
 
-# Note
+### Note
 If adding updates to a project, only enter any information related to the update. In addition please list any notes of interest below that may not apply to any of the sections.
 
 ## Project Name
