@@ -17,7 +17,7 @@ Please provide information on the author and any main points of contact. (Name, 
 Please provide a link to the project page if applicable.
 
 ## Project area (Checkboxes)
-Please insert an 'x' in the area(s) of research the project applies to.
+Please change '[ ]' to '[x]' in the area(s) of research the project applies to.
 
 ### Computing
 - [ ] Artificial Intelligence
@@ -31,7 +31,7 @@ Please insert an 'x' in the area(s) of research the project applies to.
 - [ ] Music
 
 ### Engineering
-- [x] Biomedical Engineering
+- [ ] Biomedical Engineering
 - [ ] Aerospace Engineering
 - [ ] Chemical and Biomolecular Engineering
 
