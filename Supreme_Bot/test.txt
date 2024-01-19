@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "projectName": "Project 1",
+    "projectAbstract": "This is a project",
+    "projectUrl": "https://www.youtube.com",
+    "contacts": [
+      {
+        "name": "Nate Kim",
+        "email": "test@gmail.com"
+      }
+    ],
+    "projectAreas": [
+      "ai",
+      "graphics",
+      "hpc"
+    ],
+    "licenses": [
+      "mit",
+      "isc",
+      "bsd-3"
+    ],
+    "guidelinesUrl": "https://www.google.com"
+  }
+]
